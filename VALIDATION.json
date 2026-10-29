@@ -1,7 +1,7 @@
 {
   "version": "0.7.6",
   "catalogSha256": "94fda88118f7b9053465dfddfccf8d4838ebfc16f75c7ff04d4eb8190275fe12",
-  "assemblySha256": "ca0606445dbdc6ed3fd49e16a6f97741211af626d34d8bcc2eae3c321995c589",
+  "assemblySha256": "ed764f5d010c06a4bfc5ba7d36e2fa7f258e3fff4d85af0b1bf5e4aab2a8bec0",
   "logicalReferences": 998,
   "uniqueObjects": 920,
   "transportCases": [
@@ -14,7 +14,8 @@
     "bad-object",
     "traversal",
     "unavailable",
-    "repair"
+    "repair",
+    "snapshot"
   ],
   "runtimeChecks": [
     "cold",
