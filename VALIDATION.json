@@ -1,0 +1,28 @@
+{
+  "version": "0.7.6",
+  "catalogSha256": "94fda88118f7b9053465dfddfccf8d4838ebfc16f75c7ff04d4eb8190275fe12",
+  "assemblySha256": "ca0606445dbdc6ed3fd49e16a6f97741211af626d34d8bcc2eae3c321995c589",
+  "logicalReferences": 998,
+  "uniqueObjects": 920,
+  "transportCases": [
+    "fresh",
+    "warm",
+    "resume",
+    "ignore",
+    "truncate",
+    "hash-failure",
+    "bad-object",
+    "traversal",
+    "unavailable",
+    "repair"
+  ],
+  "runtimeChecks": [
+    "cold",
+    "warm",
+    "menu",
+    "instarseed",
+    "loading"
+  ],
+  "offlineAfterInstall": true,
+  "userStateIncluded": false
+}
